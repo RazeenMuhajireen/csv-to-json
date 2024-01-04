@@ -1,2 +1,2 @@
 # csv-to-json
-convert a csv file to json
+convert a large csv file (millions of rows) to json
